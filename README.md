@@ -1,4 +1,4 @@
-# awesome-golang-workshops [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Golang Workshops [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome golang workshops. 
 
 As opossed to tutorials or blog posts, workshops cover a topic thoroughly with great depth and are usually hosted in Github.  
