@@ -67,5 +67,7 @@ Any comments, suggestions? [Let us know!](https://github.com/amit-davidson/aweso
 * [Go Tooling Workshop](https://github.com/campoy/go-tooling-workshop) - Covers all the tools gophers use in their day to day life
 
 ### Other
-* [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Covers all the tools gophers use in their day to day life
+* [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects
+
+
 
